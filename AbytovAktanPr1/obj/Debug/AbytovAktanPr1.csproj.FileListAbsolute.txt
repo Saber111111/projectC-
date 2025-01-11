@@ -1,0 +1,12 @@
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\bin\Debug\AbytovAktanPr1.exe.config
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\bin\Debug\AbytovAktanPr1.exe
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\bin\Debug\AbytovAktanPr1.pdb
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.Login.resources
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.Properties.Resources.resources
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.csproj.GenerateResource.cache
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.csproj.CoreCompileInputs.cache
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.exe
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.pdb
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.employees.resources
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.Control.resources
+E:\проекты\AbytovAktanPr1\AbytovAktanPr1\obj\Debug\AbytovAktanPr1.salary.resources
